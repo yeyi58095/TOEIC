@@ -1,0 +1,205 @@
+[day 1]
+opening: 空缺
+eligible: 有資格的，合適的
+lack: 缺乏
+halt: 停止
+compensation: 補償
+proficiency: 熟練，精通
+prospective: 預期的，未來的
+appeal: 呼籲，有吸引力的
+apprehensive: 擔心的，憂慮的
+entitle: 給...權力
+payroll: 薪水帳冊
+recruit: 招募(新進人員等)
+wage: 薪水
+
+
+[day 2]
+attire: 服裝，衣著
+concern: 擔心，憂慮
+policy=保險單政策: 政策，保險單
+comply: 遵守，遵從
+regulation: 規定
+adhere: 遵守，堅持
+severely: 嚴格地，嚴重地
+refrain: 克制，抑制
+revise: 修訂，變更
+inspection: 檢查，視察
+mandate: 使...成為必須(做)的，授權給
+Congress: 議會
+drastically: 激烈地，大幅地，徹底地
+act=法案，法令，行動，行為: 法案
+obligation: 義務，責任
+abolish: 廢除(制度，法律等)
+enforce: 強制，實施(法律)
+legislation: 立法(n)，法律、法規
+
+[day 3]
+accustomed: 習慣的
+demanding: 要求很多的，吃力的
+compartment: 區劃，隔間
+monitor(不是螢幕): 監視，監控
+deserve: 值得，應該得到
+extension(延長除外): (電話的)分機
+delegate: (v) 委任(權限等)，(n) 代表
+delegation: 代表團
+attentively: 專心地
+workshop: 專題討論會，研討會
+draw (不是畫): 拉，吸引
+reluctantly: 不情願地
+acquaint: 使....認識，使...熟悉
+convey: 傳達(事情)
+oversee: 監督
+involved: 有關的，牽涉在內的
+concentrate(除了濃縮): 集中、專注
+
+[day 4]
+lax: (行動等) 鬆懈的，散漫的
+procrastinate: (v) 拖延
+accomplished: 有造詣的
+undertake: 從事，承擔
+assume(不是假定): 承擔
+manner: 方式，態度
+responsible: 負責任的
+confidential: 機密的
+coordinate: 協調
+accountable: 應負責任的
+intention: 意圖，意向
+duplicate: 副本
+contrary: 相反(的情況)
+disturbing: 令人不安的，令人焦慮的，煩擾人的 (令人分心的)
+engage: (使)參加，(使)從事
+foster: 促進，培養
+
+
+[day 5]
+sophisticated: 精密的，複雜的，高雅的\
+timely: 及時的，適時的
+realistically: 實際上地，在現實情況下
+promptly: 迅速地，準時地
+inform: 通知(某人)
+compile (不只編譯): 彙編(資料)、收集 
+subsequent: 隨後
+expertise: 專門知識，專門技術
+compliance: 遵守
+clarify: 闡明
+aspect: 觀點
+apparently: 看起來，似乎
+aware: 知道、意識到
+advisable: 可取的，明智的
+
+[day 6]
+celebrity: 名人
+improvise: 即興演講，即興演奏
+alumni: 校友們，畢業生們
+admission(不是允許): 入場
+fund-raising: 募款
+resume: 繼續，重新開始
+appear: 出現，現身
+accompany: 陪同
+specifically(特別了除外): 明確地，具體地
+commit (不是提交): 奉獻，致力於
+informative( 提供資訊的除外): 有益的
+antique: 骨董
+manuscript: 手稿，原稿
+upcoming: 即將來臨的
+lend: 借出
+advocate: 擁護者
+contributor(不是貢獻者): 投稿人，捐贈者
+defy: 反抗，使(說明，描寫等) 不可能
+
+[day 7]
+survey: (n, v) 調查， 意見調查
+respondent: 受訪者，回答者
+monopoly: 獨佔 (動詞 monopolize)
+competition: 競爭
+do one's utmost: 盡全力
+postpone: 使延期，延後
+appreciate(感謝除外): 賞識，欣賞
+examine(不是考試): 檢查，審查
+closely(不是接近的): 仔細地，嚴密的
+consecutive: 連續的
+publicize: 公布，宣傳
+raise(提高，增加除外): 提出(疑問)
+affect : (v) 對... 產生不好的影響 ( effect , n. 效果 效力)
+campaign: (n) 活動，競選活動
+probable: 有可能的
+impact: (n) 影響，衝擊
+comparison: (n)比較
+gap: (n) 差距
+mounting: 上升中的，增加中的
+reflective: 反應的
+at once: 同時，立刻
+
+[day 8]
+advertisement: 廣告
+marginal: 微小的，邊緣的
+influence : (v) 影響
+instantly: 立即，馬上
+aggressively: 積極地
+aim: 以...為目標
+indicate: 指出，顯示
+attract: 吸引，引起
+advise: (v)勸告，建議
+absence: (n) 不在，缺少，缺席，缺勤
+means: (n) 方法，手段
+contemporary: 同時代的，當代的
+steadily: 平穩地，穩定地
+resolve: 解決
+intensify: 強化，增強
+favorably (不是喜歡): 善意地，順利地
+adopt: 採納
+disregard: 不理會，忽視
+effort: (n) 努力
+incentive: (n) 獎勵，獎金
+mastermind: (計畫等) 策畫者
+
+[day 9]
+stagnant: 停滯的，不景氣的
+dramatically: 戲劇性地
+brisk: 活潑地，興旺地
+soar: (v) (物價等) 高升，飛升
+assert: 斷言，主張
+boost: 推動，促進(景氣)，使上升
+remain: 保持
+costly: 昂貴的，代價高的
+evenly: 均勻地，平均地
+evidence: 證據
+prospect: 展望，預期
+indicator: 指標
+industry: 工業，產業
+likely(不是喜歡 不是像): 很有可能(做...) 的
+boom: (n)繁榮 興盛
+director(不是指引者，指揮): 主管，董事
+substitute: 替代品，替代
+fairly(不是公平地): 相當，頗為
+economical(經濟的除外): 節約的
+thrive: 繁榮，成功
+implication(暗示除外): 可能的結果
+wane: 減少，衰退
+prosperity: 繁榮
+depression: 不景氣，蕭條
+dwindle: 逐漸減少，逐漸變少
+impede: (v) 妨礙，阻礙
+promising: 有希望的，有前途的
+adversity: 逆境，不幸
+
+[day 10]
+ installment(不是安裝): 分期付款
+exactly: 確切地，正好地
+auction: 拍賣
+authentic: 真正的，正統的
+charge(充電，費用除外): 責任
+warranty: (品質等的)保證，保證書
+refund: 退款
+receipt: 收據
+spare: (v) 節省，吝惜
+clearance: 清除，清倉，准許
+alter: (v) 改變(性質，形象)，修改(衣服)
+apply(應用除外): 適用，申請
+mutually: 互相，彼此
+redeemable: 可兌換的，可償還的
+officially: 正式地
+fabric: 布料
+consumption: 消耗
+vendor: 小販，攤販，販賣業者
