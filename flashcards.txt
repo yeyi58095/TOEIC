@@ -203,3 +203,55 @@ officially: 正式地
 fabric: 布料
 consumption: 消耗
 vendor: 小販，攤販，販賣業者
+
+[day 11]
+devise (不是設備裝置): (v) 設計出來，發明 ( device,(n) 設備裝置
+contrive: 設計，籌畫
+revolutionary: 革命性的
+inspiration: 靈感
+patent: 專利，專利權，專利品
+envision: (v) 想像，在心中描繪(未來的事物)
+extend(延長除外): 表示(感謝) ，給予
+intend: (v) 打算(做...)，意圖
+grant: (v) (承認並正式)授予，給予；(n) (研究經費，獎學金等)補助金
+inspect: 檢查，調查
+invest: 投資
+manual: 手冊
+hold (要注意): 容納... ，裝著...；舉辦，舉行(會議等)
+advance: (n) 進步，發展
+reliable: 可依賴的
+domestic: 國內的
+accomplished: 熟練的，造詣的 (因為是 有成就的 + ed 這樣想)
+inquiry: (n) 詢問，問題
+indication: 徵兆，跡象
+manufacturer: 製造商，製造業者
+compatible: 相容的，能共處的
+superior: 較好的
+broaden: 擴寬，擴大
+corrosion: (n) 腐蝕 (化學)
+erosion: (n) 侵蝕 (土壤那種)
+
+[day 12]
+automate: 自動化
+specification: 明細單，說明說，規格
+properly: 適當地，正確地
+precaution: 預防措施
+processing: 加工，處理
+capacity (能力，容量除外) : 職位
+assemble (組裝除外):  召集
+utilize: 利用
+place(放置除外): 使..處於某種狀態下，下(訂單，指示，申請等)
+renovate: 翻新，翻修
+decision: 決定
+material: 材料
+tailored: 量身訂做的
+economize:  節約，節省
+attriute: 歸因於
+respectively: 分別，各自
+trim: 修剪，削減，除去
+launch: 使(新商品)上市
+separately: 分別地，個別第
+expiration: 過期
+maneuver: 調動
+demaged: 受損的
+prevent: 預防
