@@ -31,7 +31,6 @@ def run_quiz(cards):
         st.session_state.show_answer = False
         st.session_state.history = []
 
-    # 顯示題目
     if st.session_state.idx < len(st.session_state.deck):
         word, meaning = st.session_state.deck[st.session_state.idx]
         st.markdown(f"### 🔤 單字：**{word}**")
@@ -42,8 +41,8 @@ def run_quiz(cards):
                 st.rerun()
             st.stop()
 
-        # 顯示解釋與選項
         st.markdown(f"📖 解釋：**{meaning}**")
+
         col1, col2 = st.columns(2)
         with col1:
             if st.button("✔️ 有猜對 (o)"):
@@ -71,10 +70,21 @@ def run_quiz(cards):
 def main():
     st.set_page_config(page_title="TOEIC Flashcard", layout="centered")
     flashcards = load_flashcards()
-    all_cards = {}
-    for unit in flashcards:
-        all_cards.update(flashcards[unit])
-    run_quiz(all_cards)
+    unit_list = list(flashcards.keys())
+
+    selected_unit = st.selectbox("📂 請選擇要練習的單元：", unit_list)
+
+    # 當選單切換後，自動清空並重置狀態
+    if "current_unit" not in st.session_state:
+        st.session_state.current_unit = selected_unit
+    if st.session_state.current_unit != selected_unit:
+        for key in ["idx", "deck", "show_answer", "history"]:
+            if key in st.session_state:
+                del st.session_state[key]
+        st.session_state.current_unit = selected_unit
+        st.rerun()
+
+    run_quiz(flashcards[selected_unit])
 
 if __name__ == "__main__":
     main()
