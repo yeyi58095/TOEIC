@@ -4,3 +4,6 @@ entitle: 給...權力
 
 === 錯誤紀錄 ===
 refrain: 克制，抑制
+lack: 缺乏
+prospective: 預期的，未來的
+opening: 空缺
