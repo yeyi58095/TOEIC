@@ -246,12 +246,537 @@ decision: 決定
 material: 材料
 tailored: 量身訂做的
 economize:  節約，節省
-attriute: 歸因於
+attribute: 歸因於
 respectively: 分別，各自
 trim: 修剪，削減，除去
 launch: 使(新商品)上市
 separately: 分別地，個別第
 expiration: 過期
 maneuver: 調動
-demaged: 受損的
+damaged: 受損的
 prevent: 預防
+
+[day 13]
+deal(處理除外): (v) 處理，交易，分配；(n) 交易
+close a deal: 成交
+argumentative: 爭論的，愛爭辯的
+infuriate: 激怒，使(人)大怒
+courteous: 有禮貌的
+specific(不是特別): 具體的，明確的
+presentation: 簡報
+evaluation: 評價，評估
+confident: 有自信的
+commentary: (n) 評論，評註，實況報導
+certain(特定除外): 確定的，確信的；某個，某些
+commitment: 投身，投入，致力
+applaud: 為...鼓掌，稱讚
+critical(臨界的除外): 批評的，關鍵的，危及的
+observe(觀察，注意到除外): 遵守(規則等)
+defective: 有缺陷的
+reflect: 反映，顯示
+attitude: 態度，看法
+inquire: 詢問
+disappoint: 使失望
+disclose: 公開，透漏 (n, disclosure)
+conceal: 隱藏
+politely: 禮貌地
+guarantee: 保證
+
+[day 14]
+attraction(不是吸引): 景點
+itinerary: 旅遊行程
+exotic: 異國情調的，奇特的
+diverse: 多樣的
+superb: 極好的，一流的
+baggage: 行李
+missing(遺失的除外): 缺少的
+duty:稅，關稅，責任，盡責
+board(完全不是什麼海外的): (v)上，登上(大眾運輸工具)，(n) 委員會，董事會
+declare: (在海關)申報，宣告
+specify: (v)具體說明
+depart: 出發 (depart from)
+outgoing: (從場所)出發的，離開的，即將離職的
+tightly: 緊緊地，牢固地
+carrier: 運輸公司，航空公司，運輸工具
+customarily(絕對不是客製化): 習慣上，習俗上
+brochure: (宣傳用)摺頁，小冊子
+catalog: (商品，書等)目錄
+involve(包含除外): 需要...；使...涉入
+suitcase: 行李箱
+fill out/in: 填寫，填好(表格)
+fill up: 加滿(汽油)
+customs(建議看): 海關
+dramatic: 戲劇性的
+hospitality: (n) 款待，殷勤招待
+hospitality industry: 服務業
+indulge: 沉迷，享樂
+proximity: 鄰近，接近
+seating: (n) 座位安排，座位數
+praise: 稱讚
+plentiful: 豐富，充足
+
+[day 15]
+proposal: 提案，提議
+alliance: 同盟，聯盟
+stipulation: 契約規定，契約條款
+term: 條款，任期，期限
+in terms of: 就...方面而言
+long-term : 長期的
+terminology: 專門用語
+compromise: 妥協，折衷辦法 (想法: 兩個人都承諾 (promise))
+negotiation: 談判，協商
+deadlock: 僵局
+review(不只回顧); 再檢查，審查
+contract: 合約書，(v) 簽約，收縮
+contract out A to B : 把 A 外包給B 
+signature: 簽名
+expire: 期滿
+collaborate: 合作
+dedicate: 使(自己)致力於，奉獻，獻出(時間，精力) (commit 是投入時間，金錢)
+imperative: 必須履行的，必要的
+cooperatively(不只合作地):  配合地
+commission: (n) 傭金，手續費，委員會，(v) 委任...， 委託...創作
+omit: 遺漏，省略
+conflict: 衝突，意見不一致
+proficient: 熟練的，精通的
+confidentiality: (n) 機密
+dispute: (n, v) 爭論，爭執
+objection: 反對，異議
+impression: 印象
+proceed(進行除外): 繼續 (proceed with)
+progress: 進展，進行
+procedure: 程序，步驟
+proceeds(建議看): 收入，收益
+bid: 出價，投標
+settle: 解決，和解
+terminate: 結束，終止
+foundation: 基礎，建立，創辦
+lay the foundation: 建立基礎
+incentive: 激勵
+attorney: 律師
+enclosure: 封入，附件，圍繞
+recollection: 回想(就是在腦中再收集的概念)
+reconcile: 使和解，使和好
+relinquish: 放棄
+subcontract: 分包
+solicit: 請求，懇求
+
+[day 16]
+dealer: 經銷業者，代理商
+inventory:  庫存
+commercial(商業的除外): (n) 廣告
+invoice: 發票，發貨單
+supplies:用品，補給品
+move(移動，搬遷除外): 行動，措施，對策
+discount: 折扣
+distribute: 分配，分發，分銷
+acquisition: (n) 獲得，獲得的東西；收購
+assure: (v) 向...保證，使...放心，使... 確信
+subject(不是主題，科目): (adj) 容易受到...影響的，以... 為條件的 (v) 使..受到
+be subject to change/damage: 容易被改變/損壞的
+be subject to approval: 是需要受到批准的
+subject A to B : 使A受到B
+seek: 追求，尋找
+satisfactory: 令人滿意的
+measure (不是 (v)測量，且測量的名詞是 measurement) : (n) 措施，手段， 
+bargain: 特價商品，協議，討價還價
+stock: 庫存，股票
+in stock: 有庫存，有現貨
+out of stock: 無庫存
+clientele: (總稱)顧客；(律師，建築師等的)所有委託人
+acclaim: 喝采，稱讚
+rating: 評等，等級
+encompass: 包含，圍繞
+finalize: 完成，做最後確定
+retail: 零售
+commodity: 商品(彼此之間沒什麼區別，價格取決是市場機制的原物料，大宗產品等)
+quote: 報價
+consignment: 委託(販賣)
+
+[day 17]
+fragile: 易碎的
+perishable: 易腐敗的
+deliver (運送，送到除外): 發表(演說)
+courier: 快遞公司，快遞員
+carton: 紙箱
+address(地址除外): 處理，解決(問題等)
+adequately: 適當地
+article(文章，報導除外): 物件，物品
+agency: 代理
+enclose: 封入，圍繞
+encase: (用箱子)包住
+encircle: 環繞
+pick up: 取走，用車載人
+carry (搬運，攜帶除外): (商店)有售(商品)
+attach: 貼上，附加
+formerly: 以前
+content: 內容
+acknowledge: 承認，告知(收到信件等)
+correspondence: 通信，信件
+warehouse: 倉庫
+impose: 課徵(稅等)
+detach: 分開，私下(就是 attach 的相反)
+recipient: 收件人
+affix: 貼上(郵票等)
+oblige: 使其不得不做某事，迫使做某事
+step(步驟除外): 措施(take steps)
+
+[day 18]
+complimentary: 免費贈送的
+compensate: (v) 補償 
+elegant: 優雅的，高雅的
+flavor: 味道，風味
+accommodate: (建築物)容納，供... 住宿，迎合(條件，要求等)
+reception: 接待，歡迎會，(旅館，公司)接待處
+refreshment:  茶點，輕便的飲食
+cater: (為宴會等)供應飲食，承辦外燴
+reservation(預約，預定除外): 保護區
+beverage: 飲料
+rate(比例除外): 費用
+decorate: 裝飾，裝潢
+retain: 保持，保留
+atmosphere: 氣氛，氛圍
+sequence: 順序，次序
+extensive:廣泛的，廣闊的
+prior: 在前的，在先的
+amenity: 便利設施
+ease: (v) 減輕，緩和 (n)容易，輕鬆自在
+ingredient: 材料，成分
+sip: 啜飲
+stir: 攪拌，攪動
+furnishings: 家具
+
+[day 19]
+decline: 下降，減少，拒絕(邀請，申請)
+markedly: 顯著地，明顯地
+revenue: 收入
+projection: 預測(值)
+substantial: 相當大的，相當多的
+anticipate: 預期，期望
+estimate: 估計， 估價
+significantly: 顯著地
+impressive: 令人印象深刻的
+representative: 代表，專員
+exceed: 超過
+whole: 整個
+figure(不是圖片): 數字
+steady: 穩定的，堅定的
+encouraging: 鼓勵的，令人振奮的
+incur: 遭受(損失)，招致(債務)
+slightly: 稍微地
+profit: (n) 收益，立論
+reliant: 依賴的，依靠的
+
+[day 20]
+audit: (n) 審計，查帳
+accounting: 會計
+curtail: 縮減，削減
+deficit: 赤字，不足額
+committee: 委員會
+proceeds: 收入
+reimburse: 補償，核銷
+prompt: 迅速地
+deduct: 扣除，減除
+amend: 修正
+exempt: 被免除的
+deficient: 不足的，缺乏的
+fortunate: 幸運的
+expenditure: 支出，開支
+excess: (n) 超出，過量
+fiscal: 會計的，財政的
+incidental: 附帶的
+inflation: 通貨膨脹
+liable: 負有責任的，很可能會...的
+turnover: 營業額，交易額，人事異動率
+auction: 拍賣
+
+[day 21]
+foresee: 預見，預知
+relocate: 搬遷(工廠等)
+competitor: 競爭者
+asset: 資產
+contribute: 捐獻，貢獻
+misplace(放錯位置除外):放在想不起來的地方
+last(建議看): 持續
+emerge: 出現，浮現
+merge: 合併
+imply: 暗示，意味著
+vital: 必要的
+force: 勢力
+enhance: 提升
+renowned: 著名的
+minutes(建議看): 會議記錄
+waive: (v) 放棄(權利，要求等)，免除(規定等的要求)
+premier: 第一的，首要的
+loyalty: 忠誠
+acquire: 取得，收購
+surpass: 越過，勝過
+improbable: 不太可能的
+edge(邊緣除外): 優勢
+authorship: 作者身分
+slump: 暴跌
+export: 出口
+sector: 部門
+outperform: 跑贏大盤
+
+[day 22]
+agenda: 議程
+convene: 聚集，集會，招開(會議)
+refute: 反駁，駁斥
+coordination(座標除外): 協調
+unanimous: 意見一致的，一致同意的
+convince: 說服，使確信
+consensus: 輿論，一致的意見
+defer: 延後延期
+reschedule: 重新安排...的時間
+phase: 階段
+approve: 批准，贊成
+enclosed: 被附上
+suggestion: 提議，建議
+attention: 注意，專心
+object: 反對
+coincidentally: 巧合地，碰巧地
+crowded: 擁擠地
+undergo: 經歷，承受，接受
+outcome: 結果
+narrowly(狹窄地除外): 嚴密地，勉強，好不容易，以些微之差
+brief: 向... 簡短說明( brief A on B，向A簡短說明B)
+distract: 分心
+emphasis: 強調，重點
+organize: 組織，安排
+mention:提到
+persuasive: 有說服力的
+adjourn: 使休會 (ad + journ)
+preside: 主持(會議)，擔任會議主席
+irrelevant: 無關地，不相關的
+constraint: 限制
+inhibition: (對情緒的)抑制，壓抑
+
+[day 23]
+host: 主辦(大會)
+annual: 一年一度的
+purpose: 目的，意圖
+enroll: 登記(報名)
+lecture: 講座，演講
+participant: 參與者
+attend: 出席，參加
+encourage: 鼓勵，促使
+leave:  休假，離開，留下
+recommendation: 推薦，建議，推薦信
+conference: 會議，研討會
+consist of: 由...組成
+register: 註冊
+require: 要求
+grateful: 感謝的，感激的
+overtime: 加班時間
+responsibility: 責任，義務
+assent: 同意，贊成
+regard: 認為... 是 (regard A as B)，看待。(n) 關心，注意
+tentative: 暫定的，試驗性的
+function(功能除外): 盛大的聚會
+commence: 開始
+objective: 目標，目的
+reimbursement: 補償，費用核銷
+treatment: 對待，處理
+honor: 榮譽，尊敬
+emphasize : 強調
+entry: (比賽等的)參賽者，參賽作品
+salary: 薪水
+arise: (問題等) 出現，產生
+labor: 勞動
+union: 工會
+exploit: 剝削，濫用
+
+[day 24]
+appoint: 任命，指派
+appraisal: 評價
+promote: 使升職，促進
+radically: 跟本地，徹底地
+exceptional(例外的除外): 優異的
+appreciation: 感謝，欣賞
+evaluate: 評價
+suggest: 建議
+preference: 偏好
+award: 獎
+mandatory: 義務性
+competent: 有能力的，勝任的
+reward: 報償，回報
+inexperienced: 不熟練的
+early: 早的
+designate: 指定，指派
+executive: 經營管理的
+dedication: 專心致力
+unanimously: 全體意見一致地
+progress: 行進，進步，進展
+congratulate: 祝賀
+dismiss:解雇
+praise: 稱讚
+accomplishment: 成就
+deliberation: 商議，審議
+retire: 退休
+nomination: 提名，任命
+resignation: 辭職，辭呈
+strictly: 嚴格地
+
+[day 25] 
+congestion: (交通)堵塞
+alleviate: 緩和，減輕
+divert: 使轉向，使改道
+detour: 繞道
+malfunction: 故障，機能失常
+opportunity: 機會
+clearly: 清楚，顯然地
+ongoing: 持續進行中的
+designated: 指定的
+intersection: 交叉路口
+equip: 使配備，使具備
+commute: 通勤
+closure: 關閉
+official(建議看):  公務員，官員
+transit: 運輸，運送
+fare: 交通票價
+expense(不是貴的):  費用，支出
+securely: (繩結等)牢固地，穩固地
+prominently: 顯著地，顯眼地
+tow: 拖吊(汽車)
+reverse: 相反的，背面
+obstruct: 遮擋(視線等)，阻塞(道路等)
+
+
+
+[day 26]
+delinquent: (稅款等)到期未付的，拖欠的
+regrettably: 遺憾地
+balance(平衡除外): 帳戶餘額
+deposit: 存款
+investigation: 調查
+account(帳戶除外): 說明，考慮，占多少比例
+statement(聲明除外): 結算單
+amount: 總額，總數
+withdrawal: (n) 提款
+due: 到期的，應支付的
+receive: 收到，接收
+expect: 預期，期待
+certificate: 證書
+bill: 開帳單給
+pleasure: 愉快，高興
+study: 研究
+transaction: 交易，買賣
+identification: 身分證明
+reject: 拒絕
+tentatively: 試驗性地
+alternatively: 不然的話，或者
+attentive: 注意的
+convert: 轉換，轉變
+loan: 借貸
+unexpected: 意料之外的
+cash: 兌現
+mortgage: 抵押貸款
+payable: 應支付的
+
+[day 27]
+investment: 投資
+lucrative: 有利可圖的，賺錢的
+inherently: 本質上
+secure: 確保，獲得；使安全，使牢固
+innate: 天生的
+property: 財產，房地產
+on behalf of: 代表
+lease: 租賃，租約
+sponsor: 贊助
+propose: 提議
+nearly: 幾乎，接近
+consent: 同意，贊同
+gratitude: 感謝，謝意
+advice: 勸告，建議
+partially: 部分地
+evident: 明顯一(畢竟證據嘛)
+insight: 深刻見解，洞察力
+portfolio: 作品及，投資組合
+speculation: 推測，猜測
+solely: 單獨地
+entrepreneur: 企業家
+shareholder: 股東
+outlook: 展望，前景
+stability: 穩定，穩定性
+bond: 債券
+depreciation: 貶值
+prevalent: 流行的，普遍的
+unprecedented: 前所未有的，空前的
+yield: 產生(利潤)
+
+[day 28]
+furnished: 配有家具的
+residence: 住處，住宅
+spacious: (空間)寬敞的
+drape: (v) 用窗簾裝飾
+unoccupied: (房子)空著的
+renovation: 整修，翻修
+appropriate: 適當的
+numerous: 許多的
+abandon: 放棄，中止，拋棄
+contractor: 承包商
+densely: 密集地
+district: 地區，區域
+renewal: (n) 更新
+compulsory: 義務的，必須做的
+interfere: (v) 妨礙
+architect: 建築師
+suppose: 認為，猜想
+adjacent: 鄰接的
+consist: 構成，組成
+utility: 公共事業，公共事業費用
+
+[day 29]
+conserve: 保存，保護
+chance(機會除外): 可能性
+forecast: (天氣)預報
+waste(浪費除外): 廢棄物，垃圾
+dispose: 處理，處置
+recycling: 回收再利用
+clear(建議看): (adv) 遠離 (然後其他的就都已經知道的意思)
+preserve: 保存，保護
+aid: 援助
+excessive: 過度的，過分的
+intensively: 集中的
+pollutant: 汙染物質
+emission: 排放，排放物
+discharge: 排放
+prominent: 著名的，顯著的
+deplete: 耗盡
+purify: 淨化
+endangered: 瀕臨絕種的 (= threatened)
+extinction: 絕種
+drought: 乾旱
+inflict: 施加，使遭受(痛苦，傷害)
+migration: 遷移，移動
+ecology: 生態，生態學
+habitat: (動植物的)棲息地
+
+[day 30]
+fatigue: 疲勞
+checkup: 健康檢查
+symptom: 症狀
+physician: 內科醫師
+diagnosis: 診斷
+prescribe: 開(處分) ex prescribe medicine
+recovery: 康復，恢復
+comprehensive: 全面的，綜合的
+recommend: 推薦，建議
+cleanliness: (n) 清潔
+eliminate: 排除，消除
+dental: 牙科的，牙齒的
+dietary: 飲食的，節食的
+related: 有關的
+transmit: 傳播，傳送
+coverage: (保險)理賠範圍，(新聞等的)報導
+exposure: 爆露
+pharmaceutical: 製藥的，藥劑學的
+premium:  保費
+relieve: (v) 緩解
+conscious: 有意識的，意識到的
+deprivation: 剝奪，缺乏
+induce: 引起
+insurance: (n)保險
+nutrition: 營養
+susceptible: 易受感染的，易受影響的
