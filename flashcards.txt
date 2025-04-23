@@ -759,7 +759,7 @@ checkup: 健康檢查
 symptom: 症狀
 physician: 內科醫師
 diagnosis: 診斷
-prescribe: 開(處分) ex prescribe medicine
+prescribe: 開(處方) ex prescribe medicine
 recovery: 康復，恢復
 comprehensive: 全面的，綜合的
 recommend: 推薦，建議
@@ -773,10 +773,67 @@ coverage: (保險)理賠範圍，(新聞等的)報導
 exposure: 爆露
 pharmaceutical: 製藥的，藥劑學的
 premium:  保費
-relieve: (v) 緩解
+relieve: (v) 緩解，安心
 conscious: 有意識的，意識到的
 deprivation: 剝奪，缺乏
 induce: 引起
 insurance: (n)保險
 nutrition: 營養
 susceptible: 易受感染的，易受影響的
+
+[胡 02]
+closing statement: 結算明細表
+sales transaction: 交易買賣
+registration: 登記
+obsession: 著迷
+procurement: 採購
+office supplies: 事務用品
+CIO: 資訊長 = Chief Information Officer
+leave off: 遺漏
+the list of committee members: 委員會名單
+inadvertently: 不小心地
+unsteadily: 反覆無常地
+sustainably: 可持續地
+restlessly: 不安地 (rest = 休息，放心，安心)
+take an application: 收申請書
+vow: 發誓
+urge A to B: 要求A做B事，力勸A做B
+allege: (無根據地)斷言，主張
+real estate agent: 不動產業者
+clarify: 澄清
+finely: 精細地，微小地
+gala: 節日，慶祝
+come as no surprise to : 對...來說，並非驚訝之事
+reach for: 伸手拿
+speak of: 談到
+startup company: 新創公司
+venture capitalist: 投資創業家
+accounting: 會計，會計學
+accounting graduate: 會計系畢業生
+controversial: 有爭議的
+relieved: 安心的
+a couple days: 兩天
+deliberate: 深思熟慮的
+capital budget: 資本預算
+turn in: 提出
+expense(不是貴的):  費用，支出
+reimburse: 償還，歸還
+paycheck: 薪水，支薪的支票
+circus: 馬戲團
+loiter: 遊手好閒的
+premises: (事業團體所持有的)土地，建築物
+cosmetics: 化妝品
+in addition (to) : 除了，此外
+plus: 類似 and
+upkeep: 維修(費)
+delight: 高興，開心
+itinerary: 旅行計畫
+attendant: 服務生
+present (v.) : 出示
+pending: 迫近的，(pend = 等待)
+desirability: 值得嚮往的，有利條件
+alongside: 沿著...在旁邊
+discretion: 慎重
+sympathy: 同情
+
+
