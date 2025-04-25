@@ -25,3 +25,15 @@ eligible: 有資格的，合適的
 clearance: 清除，清倉，准許
 implication(暗示除外): 可能的結果
 dwindle: 逐漸減少，逐漸變少
+
+=== 錯誤紀錄 ===
+presentation: 簡報
+step(步驟除外): 措施(take steps)
+hospitality: (n) 款待，殷勤招待
+elegant: 優雅的，高雅的
+recipient: 收件人
+compatible: 相容的，能共處的
+assemble (組裝除外): 召集
+domestic: 國內的
+missing(遺失的除外): 缺少的
+fill up: 加滿(汽油)

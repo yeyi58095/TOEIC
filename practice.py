@@ -22,10 +22,20 @@ def load_flashcards(filename="flashcards.txt"):
 
 def list_units(flashcards):
     units = list(flashcards.keys())
-    print("\n📘 可用單元：")
+    print("\n📘 可用單元（單日）：")
     for i, unit in enumerate(units, 1):
         print(f"{i}. {unit}")
     return units
+
+def list_grouped_units(flashcards, group_size=10):
+    units = [u for u in flashcards.keys() if not u.startswith("胡")]
+    day_units = sorted([u for u in units if u.lower().startswith("day")], key=lambda x: int(x.split()[1]))
+    grouped = [day_units[i:i+group_size] for i in range(0, len(day_units), group_size)]
+
+    print("\n📗 可用總複習組：")
+    for i, group in enumerate(grouped, 1):
+        print(f"{i}. {' ~ '.join([group[0], group[-1]])}")
+    return grouped
 
 def review_mode(unit_data):
     items = list(unit_data.items())
@@ -111,10 +121,11 @@ def main():
 
     while True:
         print("\n📋 主選單")
-        print("1. 選擇單元開始複習")
-        print("2. 離開")
+        print("1. 選擇單元開始複習（單日）")
+        print("2. 選擇總複習（每 10 天）")
         print("3. 複習錯誤單字")
-        choice = input("請選擇 (1/2/3): ").strip()
+        print("4. 離開")
+        choice = input("請選擇 (1/2/3/4): ").strip()
 
         if choice == "1":
             units = list_units(flashcards)
@@ -129,10 +140,25 @@ def main():
             else:
                 print("❗ 請輸入數字")
         elif choice == "2":
-            print("👋 再見！")
-            break
+            grouped_units = list_grouped_units(flashcards)
+            group_choice = input("\n請輸入組別編號（每組10天）: ").strip()
+            if group_choice.isdigit():
+                idx = int(group_choice) - 1
+                if 0 <= idx < len(grouped_units):
+                    selected_group = grouped_units[idx]
+                    combined_cards = {}
+                    for unit in selected_group:
+                        combined_cards.update(flashcards[unit])
+                    review_mode(combined_cards)
+                else:
+                    print("❗ 組別不存在")
+            else:
+                print("❗ 請輸入數字")
         elif choice == "3":
             review_wrongs()
+        elif choice == "4":
+            print("👋 再見！")
+            break
         else:
             print("❗ 輸入錯誤，請重新輸入")
 
