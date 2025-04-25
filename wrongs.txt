@@ -25,3 +25,181 @@ eligible: 有資格的，合適的
 clearance: 清除，清倉，准許
 implication(暗示除外): 可能的結果
 dwindle: 逐漸減少，逐漸變少
+
+=== 錯誤紀錄 ===
+fiscal: 會計的，財政的
+missing(遺失的除外): 缺少的
+courteous: 有禮貌的
+fortunate: 幸運的
+rate(比例除外): 費用
+incidental: 附帶的
+proceed(進行除外): 繼續 (proceed with)
+subject A to B: 使A受到B
+commodity: 商品(彼此之間沒什麼區別，價格取決是市場機制的原物料，大宗產品等)
+representative: 代表，專員
+suitcase: 行李箱
+affix: 貼上(郵票等)
+perishable: 易腐敗的
+invest: 投資
+audit: (n) 審計，查帳
+contract out A to B: 把 A 外包給B
+politely: 禮貌地
+projection: 預測(值)
+cater: (為宴會等)供應飲食，承辦外燴
+detach: 分開，私下(就是 attach 的相反)
+respectively: 分別，各自
+deficient: 不足的，缺乏的
+reservation(預約，預定除外): 保護區
+accomplished: 熟練的，造詣的 (因為是 有成就的 + ed 這樣想)
+proceeds(建議看): 收入，收益
+brochure: (宣傳用)摺頁，小冊子
+deliver (運送，送到除外): 發表(演說)
+term: 條款，任期，期限
+in terms of: 就...方面而言
+attribute: 歸因於
+fill out/in: 填寫，填好(表格)
+envision: (v) 想像，在心中描繪(未來的事物)
+deadlock: 僵局
+profit: (n) 收益，立論
+carry (搬運，攜帶除外): (商店)有售(商品)
+itinerary: 旅遊行程
+furnishings: 家具
+enclosure: 封入，附件，圍繞
+compensate: (v) 補償
+trim: 修剪，削減，除去
+fragile: 易碎的
+attraction(不是吸引): 景點
+outgoing: (從場所)出發的，離開的，即將離職的
+indulge: 沉迷，享樂
+encase: (用箱子)包住
+stir: 攪拌，攪動
+acquisition: (n) 獲得，獲得的東西；收購
+accommodate: (建築物)容納，供... 住宿，迎合(條件，要求等)
+deduct: 扣除，減除
+bargain: 特價商品，協議，討價還價
+quote: 報價
+settle: 解決，和解
+recipient: 收件人
+amend: 修正
+reimburse: 補償，核銷
+courier: 快遞公司，快遞員
+grant: (v) (承認並正式)授予，給予；(n) (研究經費，獎學金等)補助金
+acclaim: 喝采，稱讚
+observe(觀察，注意到除外): 遵守(規則等)
+move(移動，搬遷除外): 行動，措施，對策
+impression: 印象
+reconcile: 使和解，使和好
+article(文章，報導除外): 物件，物品
+domestic: 國內的
+turnover: 營業額，交易額，人事異動率
+clientele: (總稱)顧客；(律師，建築師等的)所有委託人
+cooperatively(不只合作地): 配合地
+measure (不是 (v)測量，且測量的名詞是 measurement): (n) 措施，手段，
+decline: 下降，減少，拒絕(邀請，申請)
+inflation: 通貨膨脹
+processing: 加工，處理
+elegant: 優雅的，高雅的
+proximity: 鄰近，接近
+terminology: 專門用語
+patent: 專利，專利權，專利品
+exempt: 被免除的
+contrive: 設計，籌畫
+erosion: (n) 侵蝕 (土壤那種)
+incur: 遭受(損失)，招致(債務)
+step(步驟除外): 措施(take steps)
+discount: 折扣
+certain(特定除外): 確定的，確信的；某個，某些
+alliance: 同盟，聯盟
+auction: 拍賣
+prior: 在前的，在先的
+commission: (n) 傭金，手續費，委員會，(v) 委任...， 委託...創作
+dispute: (n, v) 爭論，爭執
+attach: 貼上，附加
+conceal: 隱藏
+accounting: 會計
+tailored: 量身訂做的
+substantial: 相當大的，相當多的
+indication: 徵兆，跡象
+subcontract: 分包
+flavor: 味道，風味
+commercial(商業的除外): (n) 廣告
+revenue: 收入
+inventory: 庫存
+tightly: 緊緊地，牢固地
+manual: 手冊
+superb: 極好的，一流的
+stock: 庫存，股票
+commentary: (n) 評論，評註，實況報導
+liable: 負有責任的，很可能會...的
+material: 材料
+impose: 課徵(稅等)
+corrosion: (n) 腐蝕 (化學)
+expenditure: 支出，開支
+deficit: 赤字，不足額
+critical(臨界的除外): 批評的，關鍵的，危及的
+oblige: 使其不得不做某事，迫使做某事
+seating: (n) 座位安排，座位數
+formerly: 以前
+devise (不是設備裝置): (v) 設計出來，發明 ( device,(n) 設備裝置
+deal(處理除外): (v) 處理，交易，分配；(n) 交易
+praise: 稱讚
+defective: 有缺陷的
+compromise: 妥協，折衷辦法 (想法: 兩個人都承諾 (promise))
+customs(建議看): 海關
+estimate: 估計， 估價
+objection: 反對，異議
+inquire: 詢問
+broaden: 擴寬，擴大
+attorney: 律師
+address(地址除外): 處理，解決(問題等)
+specification: 明細單，說明說，規格
+relinquish: 放棄
+enclose: 封入，圍繞
+capacity (能力，容量除外): 職位
+precaution: 預防措施
+specify: (v)具體說明
+close a deal: 成交
+retain: 保持，保留
+catalog: (商品，書等)目錄
+subject(不是主題，科目): (adj) 容易受到...影響的，以... 為條件的 (v) 使..受到
+encircle: 環繞
+hold (要注意): 容納... ，裝著...；舉辦，舉行(會議等)
+encompass: 包含，圍繞
+finalize: 完成，做最後確定
+inspiration: 靈感
+hospitality: (n) 款待，殷勤招待
+ease: (v) 減輕，緩和 (n)容易，輕鬆自在
+distribute: 分配，分發，分銷
+figure(不是圖片): 數字
+contract: 合約書，(v) 簽約，收縮
+consignment: 委託(販賣)
+maneuver: 調動
+omit: 遺漏，省略
+infuriate: 激怒，使(人)大怒
+recollection: 回想(就是在腦中再收集的概念)
+bid: 出價，投標
+carton: 紙箱
+correspondence: 通信，信件
+be subject to approval: 是需要受到批准的
+exotic: 異國情調的，奇特的
+customarily(絕對不是客製化): 習慣上，習俗上
+sequence: 順序，次序
+baggage: 行李
+fill up: 加滿(汽油)
+attitude: 態度，看法
+argumentative: 爭論的，愛爭辯的
+reception: 接待，歡迎會，(旅館，公司)接待處
+advance: (n) 進步，發展
+solicit: 請求，懇求
+board(完全不是什麼海外的): (v)上，登上(大眾運輸工具)，(n) 委員會，董事會
+invoice: 發票，發貨單
+hospitality industry: 服務業
+disclose: 公開，透漏 (n, disclosure)
+applaud: 為...鼓掌，稱讚
+confident: 有自信的
+curtail: 縮減，削減
+amenity: 便利設施
+adequately: 適當地
+inquiry: (n) 詢問，問題
+imperative: 必須履行的，必要的
+anticipate: 預期，期望
