@@ -25,3 +25,4 @@ eligible: 有資格的，合適的
 clearance: 清除，清倉，准許
 implication(暗示除外): 可能的結果
 dwindle: 逐漸減少，逐漸變少
+
