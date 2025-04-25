@@ -140,7 +140,7 @@ aggressively: 積極地
 aim: 以...為目標
 indicate: 指出，顯示
 attract: 吸引，引起
-advise: (v)勸告，建議
+advise(不只廣告): (v)勸告，建議
 absence: (n) 不在，缺少，缺席，缺勤
 means: (n) 方法，手段
 contemporary: 同時代的，當代的

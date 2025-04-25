@@ -1,9 +1,27 @@
-
-=== 錯誤紀錄 ===
-entitle: 給...權力
-
-=== 錯誤紀錄 ===
+=== 錯誤紀錄（複習後） ===
+soar: (v) (物價等) 高升，飛升
+assert: 斷言，主張
+favorably (不是喜歡): 善意地，順利地
+advise: (v)勸告，建議
 refrain: 克制，抑制
-lack: 缺乏
-prospective: 預期的，未來的
-opening: 空缺
+advocate: 擁護者
+stagnant: 停滯的，不景氣的
+advisable: 可取的，明智的
+delegate: (v) 委任(權限等)，(n) 代表
+spare: (v) 節省，吝惜
+brisk: 活潑地，興旺地
+thrive: 繁榮，成功
+adversity: 逆境，不幸
+assume(不是假定): 承擔
+redeemable: 可兌換的，可償還的
+wane: 減少，衰退
+impede: (v) 妨礙，阻礙
+promising: 有希望的，有前途的
+indicator: 指標
+depression: 不景氣，蕭條
+delegation: 代表團
+authentic: 真正的，正統的
+eligible: 有資格的，合適的
+clearance: 清除，清倉，准許
+implication(暗示除外): 可能的結果
+dwindle: 逐漸減少，逐漸變少
