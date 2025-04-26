@@ -464,7 +464,7 @@ steady: 穩定的，堅定的
 encouraging: 鼓勵的，令人振奮的
 incur: 遭受(損失)，招致(債務)
 slightly: 稍微地
-profit: (n) 收益，立論
+profit: (n) 收益，利潤
 reliant: 依賴的，依靠的
 
 [day 20]
