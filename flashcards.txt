@@ -550,7 +550,7 @@ adjourn: 使休會 (ad + journ)
 preside: 主持(會議)，擔任會議主席
 irrelevant: 無關地，不相關的
 constraint: 限制
-inhibition: (對情緒的)抑制，壓抑
+inhibition: (對情緒的)抑制，壓抑，禁止
 
 [day 23]
 host: 主辦(大會)
@@ -693,14 +693,14 @@ partially: 部分地
 evident: 明顯一(畢竟證據嘛)
 insight: 深刻見解，洞察力
 portfolio: 作品及，投資組合
-speculation: 推測，猜測
+speculation: 推測，猜測 (spec = see , look)
 solely: 單獨地
 entrepreneur: 企業家
 shareholder: 股東
 outlook: 展望，前景
 stability: 穩定，穩定性
 bond: 債券
-depreciation: 貶值
+depreciation: 貶值 (preci = 價值)
 prevalent: 流行的，普遍的
 unprecedented: 前所未有的，空前的
 yield: 產生(利潤)
@@ -775,7 +775,7 @@ pharmaceutical: 製藥的，藥劑學的
 premium:  保費
 relieve: (v) 緩解，安心
 conscious: 有意識的，意識到的
-deprivation: 剝奪，缺乏
+deprivation: 剝奪，缺乏 (de - 離開，priv: 私人的) 從私人那裏拿走->剝奪
 induce: 引起
 insurance: (n)保險
 nutrition: 營養

@@ -1,152 +1,167 @@
 === 錯誤紀錄（複習後） ===
-yield: 產生(利潤)
-portfolio: 作品及，投資組合
-inventory: 庫存
-outlook: 展望，前景
+closure: 關閉
+amenity: 便利設施
+radically: 跟本地，徹底地
+defer: 延後延期
+fiscal: 會計的，財政的
+encase: (用箱子)包住
+consent: 同意，贊同
+lease: 租賃，租約
+drape: (v) 用窗簾裝飾
+tow: 拖吊(汽車)
 enclosure: 封入，附件，圍繞
-deficit: 赤字，不足額
-brief: 向... 簡短說明( brief A on B，向A簡短說明B)
-equip: 使配備，使具備
+enroll: 登記(報名)
+appraisal: 評價
+transaction: 交易，買賣
+entrepreneur: 企業家
 propose: 提議
-brisk: 活潑地，興旺地
-exposure: 爆露
-suppose: 認為，猜想
 reconcile: 使和解，使和好
-carry (搬運，攜帶除外): (商店)有售(商品)
 edge(邊緣除外): 優勢
-function(功能除外): 盛大的聚會
+reception: 接待，歡迎會，(旅館，公司)接待處
+turnover: 營業額，交易額，人事異動率
+depreciation: 貶值
+persuasive: 有說服力的
+inventory: 庫存
+portfolio: 作品及，投資組合
 assent: 同意，贊成
-advice: 勸告，建議
-nomination: 提名，任命
-reward: 報償，回報
-unprecedented: 前所未有的，空前的
-force: 勢力
-suggest: 建議
-acquire: 取得，收購
-prominent: 著名的，顯著的
-contractor: 承包商
-inflict: 施加，使遭受(痛苦，傷害)
-statement(聲明除外): 結算單
-intensively: 集中的
-alleviate: 緩和，減輕
 divert: 使轉向，使改道
-gratitude: 感謝，謝意
+detach: 分開，私下(就是 attach 的相反)
+relinquish: 放棄
+devise (不是設備裝置): (v) 設計出來，發明 ( device,(n) 設備裝置
+exempt: 被免除的
+stir: 攪拌，攪動
+prominent: 著名的，顯著的
+slump: 暴跌
+last(建議看): 持續
+maneuver: 調動
+premier: 第一的，首要的
+regard: 認為... 是 (regard A as B)，看待。(n) 關心，注意
+contract out A to B: 把 A 外包給B
+competent: 有能力的，勝任的
+encompass: 包含，圍繞
+deprivation: 剝奪，缺乏
+solicit: 請求，懇求
+delinquent: (稅款等)到期未付的，拖欠的
+comprehensive: 全面的，綜合的
+brisk: 活潑地，興旺地
+refute: 反駁，駁斥
+promote: 使升職，促進
+dispose: 處理，處置
+tailored: 量身訂做的
+convene: 聚集，集會，招開(會議)
+force: 勢力
+compulsory: 義務的，必須做的
+premium: 保費
+innate: 天生的
+deficit: 赤字，不足額
+exposure: 爆露
+susceptible: 易受感染的，易受影響的
+intensively: 集中的
+reimburse: 補償，核銷
+carry (搬運，攜帶除外): (商店)有售(商品)
 projection: 預測(值)
-utility: 公共事業，公共事業費用
-sector: 部門
-attentive: 注意的
+inflict: 施加，使遭受(痛苦，傷害)
+prevalent: 流行的，普遍的
+audit: (n) 審計，查帳
+statement(聲明除外): 結算單
+loan: 借貸
 on behalf of: 代表
+migration: 遷移，移動
+checkup: 健康檢查
+incidental: 附帶的
+attentive: 注意的
+waive: (v) 放棄(權利，要求等)，免除(規定等的要求)
+bond: 債券
+deplete: 耗盡
+inhibition: (對情緒的)抑制，壓抑
+coverage: (保險)理賠範圍，(新聞等的)報導
+unprecedented: 前所未有的，空前的
+outlook: 展望，前景
+proximity: 鄰近，接近
+appoint: 任命，指派
+imperative: 必須履行的，必要的
+convince: 說服，使確信
+lucrative: 有利可圖的，賺錢的
+due: 到期的，應支付的
+utility: 公共事業，公共事業費用
+term: 條款，任期，期限
+yield: 產生(利潤)
+gratitude: 感謝，謝意
+reverse: 相反的，背面
+physician: 內科醫師
+sector: 部門
+speculation: 推測，猜測
+property: 財產，房地產
+acquisition: (n) 獲得，獲得的東西；收購
+undergo: 經歷，承受，接受
+adjourn: 使休會 (ad + journ)
+entry: (比賽等的)參賽者，參賽作品
+alleviate: 緩和，減輕
 mandatory: 義務性
+board(完全不是什麼海外的): (v)上，登上(大眾運輸工具)，(n) 委員會，董事會
+objective: 目標，目的
+bargain: 特價商品，協議，討價還價
+deliberation: 商議，審議
+union: 工會
+domestic: 國內的
+resignation: 辭職，辭呈
+waste(浪費除外): 廢棄物，垃圾
+mortgage: 抵押貸款
+contractor: 承包商
+fare: 交通票價
+official(建議看): 公務員，官員
+vital: 必要的
+preside: 主持(會議)，擔任會議主席
+consignment: 委託(販賣)
+function(功能除外): 盛大的聚會
 contrive: 設計，籌畫
 expenditure: 支出，開支
-convene: 聚集，集會，招開(會議)
-enroll: 登記(報名)
-innate: 天生的
-defer: 延後延期
-tow: 拖吊(汽車)
-solicit: 請求，懇求
-physician: 內科醫師
-turnover: 營業額，交易額，人事異動率
-relinquish: 放棄
-stagnant: 停滯的，不景氣的
-drape: (v) 用窗簾裝飾
-entry: (比賽等的)參賽者，參賽作品
-bargain: 特價商品，協議，討價還價
-patent: 專利，專利權，專利品
-migration: 遷移，移動
-deliberation: 商議，審議
-devise (不是設備裝置): (v) 設計出來，發明 ( device,(n) 設備裝置
-premier: 第一的，首要的
-depreciation: 貶值
-coverage: (保險)理賠範圍，(新聞等的)報導
-inhibition: (對情緒的)抑制，壓抑
-compulsory: 義務的，必須做的
-due: 到期的，應支付的
-persuasive: 有說服力的
-checkup: 健康檢查
-stir: 攪拌，攪動
-radically: 跟本地，徹底地
-fiscal: 會計的，財政的
-endangered: 瀕臨絕種的 (= threatened)
-refute: 反駁，駁斥
-consignment: 委託(販賣)
-minutes(建議看): 會議記錄
-closure: 關閉
-proximity: 鄰近，接近
-loan: 借貸
-lease: 租賃，租約
-preside: 主持(會議)，擔任會議主席
-dispose: 處理，處置
-reverse: 相反的，背面
-objective: 目標，目的
-contract: 合約書，(v) 簽約，收縮
-tailored: 量身訂做的
-adjourn: 使休會 (ad + journ)
-fare: 交通票價
-maneuver: 調動
-lucrative: 有利可圖的，賺錢的
-slump: 暴跌
-appraisal: 評價
-encase: (用箱子)包住
-delinquent: (稅款等)到期未付的，拖欠的
-reimburse: 補償，核銷
-suggestion: 提議，建議
-domestic: 國內的
-malfunction: 故障，機能失常
-appoint: 任命，指派
-impose: 課徵(稅等)
-entrepreneur: 企業家
-contract out A to B: 把 A 外包給B
-prevalent: 流行的，普遍的
-comprehensive: 全面的，綜合的
-acquisition: (n) 獲得，獲得的東西；收購
-distract: 分心
-surpass: 越過，勝過
-reception: 接待，歡迎會，(旅館，公司)接待處
-promote: 使升職，促進
-amenity: 便利設施
-deduct: 扣除，減除
-resignation: 辭職，辭呈
-inherently: 本質上
-convince: 說服，使確信
-acclaim: 喝采，稱讚
-tentative: 暫定的，試驗性的
-indication: 徵兆，跡象
-undergo: 經歷，承受，接受
+acquire: 取得，收購
 obstruct: 遮擋(視線等)，阻塞(道路等)
-vital: 必要的
-competent: 有能力的，勝任的
-deprivation: 剝奪，缺乏
-deplete: 耗盡
-transaction: 交易，買賣
-exempt: 被免除的
-detach: 分開，私下(就是 attach 的相反)
-waive: (v) 放棄(權利，要求等)，免除(規定等的要求)
-regrettably: 遺憾地
-speculation: 推測，猜測
-commission: (n) 傭金，手續費，委員會，(v) 委任...， 委託...創作
-cash: 兌現
-enhance: 提升
-conceal: 隱藏
-preserve: 保存，保護
-accomplishment: 成就
-grateful: 感謝的，感激的
-board(完全不是什麼海外的): (v)上，登上(大眾運輸工具)，(n) 委員會，董事會
-audit: (n) 審計，查帳
+impose: 課徵(稅等)
 asset: 資產
-bond: 債券
-property: 財產，房地產
-term: 條款，任期，期限
-incidental: 附帶的
-premium: 保費
-waste(浪費除外): 廢棄物，垃圾
-consent: 同意，贊同
-last(建議看): 持續
-official(建議看): 公務員，官員
+surpass: 越過，勝過
+deduct: 扣除，減除
+patent: 專利，專利權，專利品
+grateful: 感謝的，感激的
+conceal: 隱藏
+commission: (n) 傭金，手續費，委員會，(v) 委任...， 委託...創作
+stagnant: 停滯的，不景氣的
+brief: 向... 簡短說明( brief A on B，向A簡短說明B)
+inherently: 本質上
+contract: 合約書，(v) 簽約，收縮
+acclaim: 喝采，稱讚
+
+=== 錯誤紀錄 ===
+dispose: 處理，處置
+discharge: 排放
+premier: 第一的，首要的
+inhibition: (對情緒的)抑制，壓抑
+refute: 反駁，駁斥
+district: 地區，區域
+delinquent: (稅款等)到期未付的，拖欠的
+waive: (v) 放棄(權利，要求等)，免除(規定等的要求)
+consensus: 輿論，一致的意見(con: 一樣，一起, sentire: 感受)
+portfolio: 作品及，投資組合
+competent: 有能力的，勝任的
+entry: (比賽等的)參賽者，參賽作品
 mortgage: 抵押貸款
-imperative: 必須履行的，必要的
-union: 工會
-encompass: 包含，圍繞
-regard: 認為... 是 (regard A as B)，看待。(n) 關心，注意
+consent: 同意，贊同
+statement(聲明除外): 結算單
+defer: 延後延期
+radically: 跟本地，徹底地
+drape: (v) 用窗簾裝飾
+deliberation: 商議，審議
+lucrative: 有利可圖的，賺錢的
+prevalent: 流行的，普遍的
 susceptible: 易受感染的，易受影響的
-outgoing: (從場所)出發的，離開的，即將離職的
+inflict: 施加，使遭受(痛苦，傷害) (in在做，flict打擊)
+slump: 暴跌
+deprivation: 剝奪，缺乏
+assent: 同意，贊成 (as=一樣，sent=感覺) -> 感覺一樣= 贊成，同意
+propose: 提議 (!= purpose 目的)
+clear(建議看): (adv) 遠離 (然後其他的就都已經知道的意思)
+resignation: 辭職，辭呈
+fare: 交通票價
+compulsory: 義務的，必須做的
+convene: 聚集，集會，招開(會議)
