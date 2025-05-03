@@ -193,7 +193,7 @@ charge(充電，費用除外): 責任
 warranty: (品質等的)保證，保證書
 refund: 退款
 receipt: 收據
-spare: (v) 節省，吝惜
+spare: (v) 節省，吝惜，(adj) 空閒的
 clearance: 清除，清倉，准許
 alter: (v) 改變(性質，形象)，修改(衣服)
 apply(應用除外): 適用，申請
@@ -244,7 +244,7 @@ place(放置除外): 使..處於某種狀態下，下(訂單，指示，申請�
 renovate: 翻新，翻修
 decision: 決定
 material: 材料
-tailored: 量身訂做的
+tailored: 量身訂做的 (tailor = 裁縫師)
 economize:  節約，節省
 attribute: 歸因於
 respectively: 分別，各自
@@ -781,6 +781,41 @@ insurance: (n)保險
 nutrition: 營養
 susceptible: 易受感染的，易受影響的
 
+[胡 聽1]
+shelves:櫃子
+merchandise: 產品
+turn a page: 翻頁
+headset: 耳機
+wrist watch: 手錶
+tree branches: 樹枝
+leading the bicycle: 牽車
+accessory: 裝飾品
+be tied to : 被綁在
+bicycle rack: 腳踏車架
+neatly: 整齊地
+store signs: 店家招牌
+board meeting: 理事會
+paycheck: 給薪
+drop something off at :交給...
+auditorium: 禮堂
+parcel: 包裹
+chief financial officer: 財務長
+overnight mail: 快速郵件
+shredder: 碎紙機
+preliminary research: 事前調查
+personnel director: 人事主管
+ladder: 梯子
+sturdy: 堅固
+durable: 耐用的
+construction crew: 施工團隊
+generic: 一般的
+multivitamin: 綜合維他命
+be sick of: 厭倦
+chew: 咬，咀嚼
+swallow: 吞嚥
+
+
+
 [胡 02]
 closing statement: 結算明細表
 sales transaction: 交易買賣
@@ -790,7 +825,7 @@ procurement: 採購
 office supplies: 事務用品
 CIO: 資訊長 = Chief Information Officer
 leave off: 遺漏
-the list of committee members: 委員會名單
+the list of committee members: 委員會名單h
 inadvertently: 不小心地
 unsteadily: 反覆無常地
 sustainably: 可持續地
