@@ -813,6 +813,47 @@ multivitamin: 綜合維他命
 be sick of: 厭倦
 chew: 咬，咀嚼
 swallow: 吞嚥
+trailer: 電影預告片
+host: 主持人
+showcase: 使展現，使亮相
+premiere: 初次上演
+unclaimed: 無人領取的
+promotions manager: 行銷經理
+giveaway: 贈品
+well ahead of time: 提前，提早
+production staff: 製作團隊
+hesitate: 猶豫
+
+[胡 01]
+flourish: 繁榮興盛
+seal of approval: 保證 -> 類似代言
+contingency: 緊急
+suspension: 中止，暫停
+prevalence: 流行，普及
+evacuation: 撤離，疏散
+something is in place: 某事是準備好的
+sharp: 急速地(增減)
+informal(不是通知): 非正式的
+rain and snow shower: 就...陣雨 陣雪
+be in complaint with: 遵守 = comply with = be in complaint with
+jury: 陪審團
+return (不是返回): 正式宣告判決
+verdict: 判決
+deliberate: 深思熟慮，仔細思考
+corroborate:  證實，鞏固
+guilty: 有罪的
+has a reputation as: 以... 著名
+has a reputation for: 以做...著名
+interstate: 州際公路
+trade: 交易，買賣
+now that: 既然
+severance package: 離職金
+clam: 蛤蠣
+put together:  安排，組合
+resemble: 類似，近似
+bountiful: 豐富的
+bounty: 獎勵金
+rehearse: 預演
 
 
 
