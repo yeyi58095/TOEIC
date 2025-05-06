@@ -854,7 +854,31 @@ resemble: 類似，近似
 bountiful: 豐富的
 bounty: 獎勵金
 rehearse: 預演
-
+retainer: 固齒器
+court decision: 法院判決
+observant: 細心，有觀察力的
+unduly: 不適當地，過度地
+vastly: 龐大地，巨大地
+after all: 畢竟，結果
+meanwhile: 同時
+procurement: 採購，取得
+in-depth: 深入的(講解，課程)
+disseminate: 傳播(知識)
+dismiss: 解散，解雇
+promise: 承諾
+acclimate: (人，動物)適應
+up front: 預先付款
+premature: 倉促的，過早的 (mature = 熟)
+be supposed to:  應該 (=  forced should)
+self-paced: (學科等)適合自己的進度
+prior credits: 事前學分
+bachelor's degree: 學士學位
+be due...: 預定
+rest: 剩餘部分
+ranch: 牧場
+crafts: 工藝品
+gingerbread: 薑餅
+vendor: 小販
 
 
 [胡 02]
