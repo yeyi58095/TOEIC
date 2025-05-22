@@ -879,6 +879,52 @@ ranch: 牧場
 crafts: 工藝品
 gingerbread: 薑餅
 vendor: 小販
+infer: 推論
+theatrical: 戲劇的
+welcome address: 歡迎詞
+retreat: 修練，撤退
+reclaim: 找回，恢復
+perpetual: 持久的
+
+[胡 聽 02]
+deserted: 空無一人的
+thick forest: 繁茂的森林
+utensils: 餐具
+tablecloth: 桌布
+towel: 毛巾
+stationery cabinet: 文具櫃
+be scattered on: 散落在...上
+staple: 用訂書針訂
+dock: 碼頭
+harbor: 港口
+tie up: 停泊
+stroll: 散步
+brook: 小溪
+jetty: 突碼頭
+protrude: 突出，伸出
+auditorium: 大禮堂
+artwork: 藝術品
+the surface of the river: 湖面
+hardware store: 五金行
+drop off the dry-cleaning: 將衣物乾洗
+be in charge: 負責
+ticket: 票券，開交通罰單 -> ticket for speeding 開超速罰單
+check(檢查除外) : 支票
+file the personal records: 將人事紀錄歸檔
+cabinet: 櫃子
+give me a hand Ving: 幫忙 V事
+be out of order: 故障
+secretary: 秘書
+happen to : 碰巧
+the term of the contract: 合約條件
+proposal: 提案(書)
+go over: 查看
+scenery: 風景
+magnificent: 美麗，壯麗的
+bulb: 燈泡
+energy-efficient: 節約能源
+reception party: 迎新派對
+
 
 
 [胡 02]
@@ -935,5 +981,29 @@ desirability: 值得嚮往的，有利條件
 alongside: 沿著...在旁邊
 discretion: 慎重
 sympathy: 同情
+
+[王 05 聽力]
+waving: 揮手
+hold onto: 握著
+the handle of the cart: 推車把手
+bouquet: 花束
+vase: 花瓶
+counter: 流理臺
+boil: 沸騰
+head over: 前往
+desert: 荒廢
+morning paper: 早報
+takeover: 接管
+informal (不是資訊相關): 非正式的
+pamphlets: 小冊子
+owe: 積欠
+take care of: 處理
+Contract negotiations are about more than just the price: 合約協商不只是談價格的
+demonstration: 展示會
+miracle: 奇蹟
+
+
+
+
 
 
