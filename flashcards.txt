@@ -1001,9 +1001,128 @@ take care of: 處理
 Contract negotiations are about more than just the price: 合約協商不只是談價格的
 demonstration: 展示會
 miracle: 奇蹟
+promotional: 促銷的
+compile: 彙整，編篡
+rush: 加快
+file: 提出(申訴)
+attorney: 律師
+law firm: 律師事務所
+associate: 同事
+anticipate: 預測
+go about: 動手做
+spokesperson: 發言人，代言人
+turnout: (聚會等的)聚集人數，參加者
+proposal: 提案
+draft: 草稿
+caption: 標題
+morale: 士氣
+overtime: 加班
+be entitled to : 有資格
+complimentary: 免費的
+earn: 賺得
+deal(不是處理): 特價商品
+complication: 困難
 
 
-
+[王05 閱讀]
+census: 人口普查
+lavish: 豪華的
+fertile: 肥沃的，能生育的
+particularly(部份地除外): 特別地
+maternity leave: 產假
+objective: 目的，目標
+handle: 掌握
+attendant(不是出席者): 服務人員
+reception desk: 服務台，接待櫃檯
+journalism: 新聞工作
+tableware: 餐具
+charitable: 慈善的
+broadband: 寬頻
+shifting: 變動的，移動的
+social network: 社交網路
+abound: 富含
+fromation: 構成物
+saline lake: 鹽水胡
+entice: 吸引
+sharply: 劇烈地，尖銳地
+lure: 吸引，誘惑
+cathedra: 大教堂
+chandelier: 吊燈
+as pre: 按照
+registration certificate: 登記證
+accommodate(居住除外): 配合(要求)，適應(環境)
+hospitality: 餐飲業
+public relations: 公關
+attendance: 出席
+recap: 重述要點
+inauguration: 開幕典禮
+media coverage: 媒體報導
+collection agency: 債務處理公司
+turn over: 移交給
+enclosed: 附上的
+billing statement: 帳單明細
+overcharge:超收的費用
+place an order: 下訂單
+rebate: 折價退費
+rug: 地毯
+come along: 一起去
+pick out: 挑選
+cease: 停止，終止
+transition: 轉換，轉變
+newsstand: 報攤
+revenue: 收益
+venue: 場地
+stand (不是站): 處於某種狀態
+inductee: 入會者，加入者
+memorabilia: 紀念品，收藏品
+auctioned: 拍賣的
+trial(不是什麼路程): 選拔會
+stunning: 令人驚嘆的
+compliment: (n)稱讚
+stater-of-the-art: 最先進的
+markdown: 折價，降價
+introductory: 推廣(新品)用的，介紹用的
+polish: 拋光
+rim:  輪框
+nanabrasive: 非磨蝕性的
+try out: 嘗試
+captial: 資本
+gloomy: 低迷的，陰暗的
+bond: 債券
+craft: 工藝
+solicitation: 懇請，懇切要求
+catering: 提供飲食
+take measure: 採取措施
+sales tax: 銷售稅
+specify: 明確說明
+intricate(不是天生的): 精細的
+alleviaete: 減緩
+well-being: 福祉
+endorse: 簽署，背書
+beneficiary: 受益人
+stick to: 堅守
+sizeable: 相當大的
+urgently: 緊急地
+creative director: 創意總監
+college graduate: 大學畢業生
+shortcoming: 缺點，不足之處
+regardless of: 無論
+point out: 指出，提出
+persuade: 說服
+after all: 不管怎樣，畢竟
+flyer: 傳單
+bachelor's degree: 學士學位
+turn down: 拒絕
+turn away: 拒絕批准進入(或通過)此處
+prone to: 易於
+airborne germ: 經空氣傳播的細菌
+knock down: 撞倒
+plug in: 連接店員
+hum: 嗡嗡聲
+insofar as: 在...的範圍內
+aesthetically: 美觀地
+largely: 大部分地
+respiratory: 呼吸相關的，呼吸道的
 
 
 
