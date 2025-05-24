@@ -1124,5 +1124,10 @@ aesthetically: 美觀地
 largely: 大部分地
 respiratory: 呼吸相關的，呼吸道的
 
-
+[官方]
+tastefully: 雅致地
+amenity: 設施
+formerly: 以前地
+hassle: 麻煩
+draw for a pair of tickets: 抽兩張票
 
